@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RomainCarrillo
 - 👀 I’m interested in Web Developement & Cybersecurity
-- 🌱 I’m currently learning PHP & MySQL and soon I'll start using Synfony
+- 🌱 I’m currently learning Java and JEE soon I'll start using Spring Boot.
 - 💞️ As I'm new to web development world, I working on some small personal projects to learn the basics and get as many experience as I can.
 - 📫 How to reach me https://www.linkedin.com/in/romain-carrillo-0aab90142/
 
